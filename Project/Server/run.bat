@@ -1,0 +1,3 @@
+cls
+java FileDownloadServerMain
+pause
